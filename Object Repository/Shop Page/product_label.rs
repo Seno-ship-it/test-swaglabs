@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>product_label</name>
+   <tag></tag>
+   <elementGuidId>a0dee49e-b943-4143-a03e-70f723404bd3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//[@class='product_label']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//[@class='product_label']</value>
+      <webElementGuid>6fd56373-e992-415b-9692-5064883e03f2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

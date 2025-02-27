@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Enter a given username and given password</description>
+   <name>TC_Login_With_Standard_User</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9fd13357-fc8c-4cea-a19e-274742c5e917</testCaseGuid>
+</TestCaseEntity>
