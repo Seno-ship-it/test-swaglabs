@@ -7,18 +7,17 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//[@class='product_label']</value>
+         <value>//div[@class='product_label']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//[@class='product_label']</value>
-      <webElementGuid>6fd56373-e992-415b-9692-5064883e03f2</webElementGuid>
+      <value>//div[@class='product_label']</value>
+      <webElementGuid>2c0094a7-570a-466a-aacc-c38d244e3a4a</webElementGuid>
    </webElementProperties>
 </WebElementEntity>
